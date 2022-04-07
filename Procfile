@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar  target/sb_service02-0.0.1-SNAPSHOT.jar
